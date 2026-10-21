@@ -101,7 +101,7 @@ amazon-sales-analysis-powerbi/
 
 ## 👤 Author
 
-**Your Name**
+GUARAV VIJAY PATIL
 
 Aspiring Data Analyst | Power BI | SQL | Excel | Python | Data Visualization
 
